@@ -11,7 +11,7 @@ A rode home page clone made using HTML and Tailwind CSS
 ## Time Taken for Completion
 - 5 hours
 
-<!-- ### Checkout the Project here : [portfoliodeveloper](https://portfoliodeveloper.netlify.app/) -->
+### Checkout the Project here : [rode](https://rerode.netlify.app/)
 
 ## Output
 
